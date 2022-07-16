@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/poke-wiki/static/css/main.40602ec3.css",
+    "main.js": "/poke-wiki/static/js/main.c9e3daf4.js",
+    "static/js/787.9265597f.chunk.js": "/poke-wiki/static/js/787.9265597f.chunk.js",
+    "index.html": "/poke-wiki/index.html",
+    "main.40602ec3.css.map": "/poke-wiki/static/css/main.40602ec3.css.map",
+    "main.c9e3daf4.js.map": "/poke-wiki/static/js/main.c9e3daf4.js.map",
+    "787.9265597f.chunk.js.map": "/poke-wiki/static/js/787.9265597f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40602ec3.css",
+    "static/js/main.c9e3daf4.js"
+  ]
+}
